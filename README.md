@@ -27,13 +27,13 @@ Disfruta creando memes de forma rápida y privada.
 
 **Opción 1: Probar la Demo (GitHub Pages)**
 
-Haz clic en el badge [![Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](https://your-username.github.io/local-meme-generator/index.html) al principio de este README para probarlo directamente.
+Haz clic en el badge [![Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](https://soyunomas.github.io/local-meme-generator/index.html) al principio de este README para probarlo directamente.
 
 **Opción 2: Ejecutar Localmente**
 
 1.  **Clona o descarga** este repositorio:
     ```bash
-    git clone https://github.com/your-username/local-meme-generator.git
+    git clone https://github.com/soyunomas/local-meme-generator.git
     ```
     (O descarga el ZIP y extráelo).
 2.  **Navega** a la carpeta descargada/clonada.
